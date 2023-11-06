@@ -24,11 +24,4 @@ class helper:
             print(self.n_values.index(self.x)+1)
         else:
             print(-1)
-        
 
-obj = helper()
-obj.askN()
-obj.askNumbers()
-obj.showNumbers()
-obj.askANumber()
-obj.finalResult()
